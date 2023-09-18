@@ -1,0 +1,8 @@
+# EPIC Strategy
+
+## EPIC Vision
+The Earth Prediction Innovation Center (EPIC) will enable the most accurate and reliable operational numerical forecast model in the world.
+
+## EPIC Mission
+To be the catalyst for community research and modeling advances that continually inform and accelerate advances in our nation’s operational forecast modeling systems.
+
